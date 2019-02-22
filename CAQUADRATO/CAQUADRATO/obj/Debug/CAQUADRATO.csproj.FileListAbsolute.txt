@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\obj\Debug\CAQUADRATO.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\obj\Debug\CAQUADRATO.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\bin\Debug\CAQUADRATO.exe.config
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\bin\Debug\CAQUADRATO.exe
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\bin\Debug\CAQUADRATO.pdb
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\obj\Debug\CAQUADRATO.exe
+C:\Users\Utente\Desktop\Hakim\Informatica\CAQUADRATO\CAQUADRATO\obj\Debug\CAQUADRATO.pdb
