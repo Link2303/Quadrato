@@ -1,0 +1,2 @@
+# Quadrato
+Approfondimenti Classe Quadrato
