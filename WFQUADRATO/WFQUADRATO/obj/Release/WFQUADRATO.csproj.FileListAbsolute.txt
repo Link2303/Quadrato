@@ -1,0 +1,12 @@
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.Form_Menu.resources
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.Properties.Resources.resources
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\bin\Release\WFQUADRATO.exe.config
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\bin\Release\WFQUADRATO.exe
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\bin\Release\WFQUADRATO.pdb
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\bin\Release\CLQUADRATO.dll
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\bin\Release\CLQUADRATO.pdb
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.csproj.CopyComplete
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.exe
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Release\WFQUADRATO.pdb

@@ -1,0 +1,5 @@
+C:\Users\Utente\Desktop\Hakim\Informatica\CLQUADRATO\CLQUADRATO\bin\Debug\CLQUADRATO.dll
+C:\Users\Utente\Desktop\Hakim\Informatica\CLQUADRATO\CLQUADRATO\bin\Debug\CLQUADRATO.pdb
+C:\Users\Utente\Desktop\Hakim\Informatica\CLQUADRATO\CLQUADRATO\obj\Debug\CLQUADRATO.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\CLQUADRATO\CLQUADRATO\obj\Debug\CLQUADRATO.dll
+C:\Users\Utente\Desktop\Hakim\Informatica\CLQUADRATO\CLQUADRATO\obj\Debug\CLQUADRATO.pdb

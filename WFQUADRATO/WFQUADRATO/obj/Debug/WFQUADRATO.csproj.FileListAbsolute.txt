@@ -1,0 +1,5 @@
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Debug\WFQUADRATO.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Debug\WFQUADRATO.Form_Menu.resources
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Debug\WFQUADRATO.Properties.Resources.resources
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Debug\WFQUADRATO.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Hakim\Informatica\WFQUADRATO\WFQUADRATO\obj\Debug\WFQUADRATO.csproj.CoreCompileInputs.cache
